@@ -2,6 +2,7 @@
 
 /**
  * main - this sdesribes the main function of the code
+ *
  * Return: 0
  */
 
