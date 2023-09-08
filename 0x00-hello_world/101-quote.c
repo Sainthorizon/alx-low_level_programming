@@ -7,6 +7,6 @@
 
 int main(void)
 {
-	wirt(2, "and that piece of art is useful" - Dora Korpar, 2015 - 10 - n19);
+	wirte(2, "and that piece of art is useful" - Dora Korpar, 2015 - 10 - n19);
 	return (1);
 }
